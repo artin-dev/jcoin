@@ -1,0 +1,10 @@
+{
+  "name" : "JCoin",
+  "symbol" : "JCC",
+  "image" : "https://raw.githubusercontent.com/artin-dev/jcoin/refs/heads/main/Jevelopers-logo.png",
+  "description" : "Just Coin",
+  "creator" : {
+    "name" : "artin dev",
+    "telegram" : "https://t.me/Jevelopers"
+  }
+}
